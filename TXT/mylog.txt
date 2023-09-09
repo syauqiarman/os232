@@ -10,3 +10,14 @@ ZCZC W00 120 L05 Quiz related including studying
 ZCZC W00 90 L73 Gaming
 ZCZC W00 120 L70 Studying for other courses
 ZCZC W00 30 L88 Workout
+ZCZC W00 20 L10 Assignment #00
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 20 L62 Install Virtual Debian Guest
+ZCZC W01 20 L61 Install Virtual Box
+ZCZC W01 20 L31 VirtualBox: setup
+ZCZC W01 90 L70 Studying for other courses
+ZCZC W01 30 L81 Listening: Radio, Music, etc.
+ZCZC W01 120 L05 Quiz related including studying
+ZCZC W01 60 L11 Assignment #01
