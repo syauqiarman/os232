@@ -14,5 +14,9 @@ permalink: LINKS/
  This link shows us ACLs in Linux offer flexible permission management, allowing non-group members to access resources without adding them to the group.
 * [Encryption - Symmetric Encryption vs Asymmetric Encryption - Cryptography - Practical TLS](https://youtu.be/o_g-M7UBqI8?si=whvaspIZ89o_xft0) --- 
  This video will explore the strengths and weaknesses of each option and offer a straightforward illustration for both of them.
+* [Files & File Systems: Crash Course Computer Science](https://youtu.be/KN8YgJnShPM?si=SmGAy7MCZxm8zsoj) --- 
+ This video will show you how your computers read and interpret computer files, also how some popular file formats like txt, wave, and bitmap are encoded and decoded.
+* [File System Concept](https://youtu.be/mzUyMy7Ihk0?si=EKYB_eFeJE-UShqL) --- 
+ This video will explain the concept of File System clearly and easy to undrestand.
 <br>
 <hr>
