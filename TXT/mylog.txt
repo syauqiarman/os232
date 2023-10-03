@@ -2,6 +2,21 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 5 L07 Demo related
+ZCZC W04 10 L25 C-language including Make.
+ZCZC W04 30 L22 Compiling TLPI.
+ZCZC W04 30 L81 Listening Music
+ZCZC W04 100 L70 Studying for other courses (Linear Algebra).
+ZCZC W04 20 L40 TXT/ related in general.
+ZCZC W04 120 L84 Relax, Rest, Nap, and Sleep
+ZCZC W04 10 L06 GSGS related
+ZCZC W04 100 L09 Assignment in General (SDA weekly checkpoint).
+ZCZC W04 40 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 10 L64 Helping a friend (OS related problem)
 ZCZC W03 30 L01 SCELE/Discord related
 ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 90 L70 Studying for other courses.
