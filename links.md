@@ -28,5 +28,13 @@ permalink: LINKS/
  This video will explain steps for mapping the logical to physical address through page table.
 * [Difference between Static and Shared Library](https://www.tutorialspoint.com/difference-between-static-and-shared-libraries#:~:text=As%20mentioned%20in%20above%20point,by%20the%20Operating%20system%20itself.) ---
  This link will help you understanding the difference between static and shared library easily from the table.
+* [What is virtual memory? – Gary explains](https://youtu.be/2quKyPnUShQ?si=9M4SlyA24dnpykco) ---
+ This video will explain about Virtual Memory and easy to understand, because its provided with nice visuals.
+* [Partition Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/) ---
+ This link gives a clear explanation of how computers manage memory using different methods. It's a helpful resource for understanding memory management in operating systems.
+* [OS56 - Global vs Local Page Replacement | Operating Systems](https://youtu.be/tmMcWbiUbaA?si=wivpUJO0FtfXElek) ---
+ With this video you can learn about Global and Local Allocation with good presentation.
+* [#26 Thrashing | What is thrashing? | Thrashing in Operating System](https://youtu.be/fMYECCDzUKc?si=MuaLqWEn7s7yRhoB) ---
+ This video contains slides about trashing in operating systems, and the explanations provided can enhance your understanding.
 <br>
 <hr>
