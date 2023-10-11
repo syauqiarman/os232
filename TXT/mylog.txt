@@ -13,7 +13,7 @@ ZCZC W05 20 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W05 10 L25 C-language including Make.
 ZCZC W05 20 L40 TXT/ related in general.
 ZCZC W05 50 L80 Waching: Disneyplus, Loki S2
-ZCZC W05 10 L06 GSGS related
+ZCZC W05 10 L06 GSGS related.
 ZCZC W05 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W05 90 L70 Studying for other courses (MPPI quiz).
 ZCZC W05 100 L09 Assignment in General (PBP assignment).
