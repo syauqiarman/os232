@@ -36,5 +36,13 @@ permalink: LINKS/
  With this video you can learn about Global and Local Allocation with good presentation.
 * [#26 Thrashing | What is thrashing? | Thrashing in Operating System](https://youtu.be/fMYECCDzUKc?si=MuaLqWEn7s7yRhoB) ---
  This video contains slides about trashing in operating systems, and the explanations provided can enhance your understanding.
+* [Process States](https://www.javatpoint.com/os-process-states) ---
+ This link will explain about the process of states and easy to understand, because its provided with diagram.
+* [fork() and exec() System Calls](https://youtu.be/IFEFVXvjiHY?si=KKxgXX0WsKXgw6dK) ---
+ This video explaining about fork() and exec() System Calls and will help you to understand easily.
+* [Introduction to Threads](https://youtu.be/LOfGJcVnvAk?si=5BjRQTckxjpiM_6Y) ---
+ Threads, single and multi threaded process will be easier to understand with this video.
+* [Process vs Thread](https://youtu.be/Dhf-DYO1K78?si=6RgueS5V6qJAnzsM) ---
+ An easily understandable short explanation about the difference between process and thread.
 <br>
 <hr>
