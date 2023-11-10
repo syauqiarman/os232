@@ -44,5 +44,11 @@ permalink: LINKS/
  Threads, single and multi threaded process will be easier to understand with this video.
 * [Process vs Thread](https://youtu.be/Dhf-DYO1K78?si=6RgueS5V6qJAnzsM) ---
  An easily understandable short explanation about the difference between process and thread.
+* [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php) ---
+ An easily link to understand about the process of Synchronization & Deadlock.
+* [Semaphores](https://youtu.be/XDIOC2EY5JE?si=MjAAgb1yHdr8C7Or) ---
+ I highly recommend this video for its clear explanation of semaphores, wait() and signal() operations, Binary Semaphores, and Counting Semaphores.
+* [Disadvantages of Semaphores](https://youtu.be/2cGo2HdA0dM?si=hiPXgOhyVMHhvv6A) ---
+ The video provides a clear and easily understandable explanation of the disadvantages of semaphores, busy waiting, modifications to wait() and signal() operations, as well as insights into deadlocks and starvation.
 <br>
 <hr>
