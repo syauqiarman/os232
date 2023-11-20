@@ -50,5 +50,13 @@ permalink: LINKS/
  I highly recommend this video for its clear explanation of semaphores, wait() and signal() operations, Binary Semaphores, and Counting Semaphores.
 * [Disadvantages of Semaphores](https://youtu.be/2cGo2HdA0dM?si=hiPXgOhyVMHhvv6A) ---
  The video provides a clear and easily understandable explanation of the disadvantages of semaphores, busy waiting, modifications to wait() and signal() operations, as well as insights into deadlocks and starvation.
+* [The Linux From Scratch version 12. Book (https://www.linuxfromscratch.org/lfs/view/12.0/) ---
+ An easily link to understand about the LFS step by step.
+* [Preemptive and Non-Preemptive Scheduling](https://youtu.be/4DhFmL-6SDA?si=ymAWtNRRoLvElmAX) ---
+ This video aim to cover CPU scheduling, the dispatcher's role, and differences between preemptive and non-preemptive scheduling for a comprehensive understanding and effective application in system optimization.
+* [Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=MKx1aWn5wL4zxCi_) ---
+ This video aim to capture the essence of the objectives behind multiprogramming and time-sharing, the role of process scheduler, and the significance of various scheduling queues in system management.
+* [Process Management (Processes and Threads)](https://youtu.be/OrM7nZcxXZU?si=5EY9hPFJfbr6FV-s) ---
+ This video titles aim to provide comprehensive insights into each topic, making it easier for viewers to understand and apply concepts related to process management, processes, threads, and the differences between processes and threads.
 <br>
 <hr>

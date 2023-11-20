@@ -2,6 +2,21 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 10 L01 SCELE/Discord related
+ZCZC W08 5 L61 Backup Virtual Box
+ZCZC W08 10 L06 GSGS related
+ZCZC W08 5 L07 Demo related
+ZCZC W08 90 L70 Studying for other courses
+ZCZC W08 120 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 120 L84 Nap
+ZCZC W08 180 L18 Assignment #08
+ZCZC W08 30 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend
+ZCZC W08 30 L81 Listening Music
+ZCZC W08 120 L05 Quiz related including studying
+ZCZC W08 20 L40 TXT/ related in general.
+ZCZC W08 20 L64 Helping a friend (OS related problem)
+ZCZC W08 10 L03 GitHub and git related
 ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W07 30 L01 SCELE/Discord related
 ZCZC W07 30 L81 Listening Music
